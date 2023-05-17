@@ -1,5 +1,5 @@
 # Pull the base beeline dockerhub image
-FROM grnbeeline/arboreto:base
+FROM grnbeeline/grnvbem:base
 
 # Set the working directory to /app
 WORKDIR /app
